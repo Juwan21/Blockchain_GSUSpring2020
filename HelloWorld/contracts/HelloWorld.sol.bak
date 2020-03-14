@@ -1,0 +1,22 @@
+pragma solidity ^0.5.1;
+
+contract HelloWorld {
+    
+	string public something;
+	
+	constructor (string memory input) public{
+		
+		something=input;
+	}
+	
+	function setMSG(string memory input)public{
+	
+		something=input;
+
+ }
+	
+	function getMSG()public view returns(string memory){
+       
+		return something;
+    }
+}
