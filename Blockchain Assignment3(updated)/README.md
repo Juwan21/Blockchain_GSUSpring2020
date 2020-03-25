@@ -1,10 +1,8 @@
 # Blockchain Assignment 3:
 
->Juwan Smith
->
->3/25/20
-
->CSC 4980
+### Juwan Smith
+### 3/25/20
+### CSC 4980
 
 
 ## How to setup the environment:
@@ -154,7 +152,7 @@
 * Run `token.transferOwnership(sale.address)`
 
 
-##Assignment Transactions Results:
+## Assignment Transactions Results:
 
 1. **Try to buy tokens with 2.5 ether**
 	* Run sale.buyTokens(web3.eth.accounts[0], {value : new web3.BigNumber(web3.toWei(2.5, 'ether')) , from : web3.eth.accounts[1]});. Output: Some Error
