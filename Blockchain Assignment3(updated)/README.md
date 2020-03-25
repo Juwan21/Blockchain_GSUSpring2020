@@ -1,8 +1,10 @@
 # Blockchain Assignment 3:
 
-###Juwan Smith
-###3/25/20
-###CSC 4980
+>Juwan Smith
+>
+>3/25/20
+
+>CSC 4980
 
 
 ## How to setup the environment:
