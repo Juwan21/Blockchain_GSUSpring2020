@@ -26,7 +26,7 @@
 
 ## Converting Assignment file to version v0.5 and later:
 
-*Copy the entire Assignment code from the given link [here](https://coursetro.com/posts/code/102/Solidity-Mappings-&-StructsTutorial).
+* Copy the entire Assignment code from the given link [here](https://coursetro.com/posts/code/102/Solidity-Mappings-&-StructsTutorial).
 
 * Add the memory keyword before _fname and _lname within the parameters of the setInstructor() function.
 
